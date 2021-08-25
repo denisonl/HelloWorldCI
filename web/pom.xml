@@ -31,11 +31,11 @@
 	<distributionManagement>
 	  <repository>
   	   <id>nexus</id>
-	   <url>http://100.27.4.172:8081/nexus/content/repositories/realeses/</url>
+	   <url>http://54.172.140.123:8081/nexus/content/repositories/realeses/</url>
  	  </repository>
 	  <snapshotRepository>
   		<id>nexus</id>
-   		<url>http://100.27.4.172:8081/nexus/content/repositories/snapshots/</url>
+   		<url>http://54.172.140.123:8081/nexus/content/repositories/snapshots/</url>
  	  </snapshotRepository>
 	</distributionManagement> 
 	
